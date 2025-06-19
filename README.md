@@ -1,4 +1,5 @@
 # Automated-classification-of-PA-WT
+<Deep learning-guided CT radiomics with adaptive peritumoral analysis for automated classification of Pleomorphic Adenoma and Warthin Tumor>
 This repository contains the implementation code for the research presented in the above paper.  
 
 **Key Components**:  
